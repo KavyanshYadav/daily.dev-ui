@@ -1,0 +1,5 @@
+#sidebarbtn:hover{
+    scale: 1.01;
+    color: antiquewhite;
+    transition: scale 1s ;
+}
